@@ -7,7 +7,7 @@
 
 <br>
 
-### 🖋️ about me
+### about me 🍓
 Computer Science student @ **UNESC** | Web Dev Intern @ **CITOLabs**
 
 I'm a web developer who loves the intersection of **clean code** and **bold design**. Currently deep-diving into the Laravel ecosystem and perfecting my "scrapbook" aesthetic with millimetric precision.
@@ -18,7 +18,7 @@ I'm a web developer who loves the intersection of **clean code** and **bold desi
 
 ---
 
-### 🛠️ my tech stack
+### my tech stack 🍉
 <div align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -29,7 +29,7 @@ I'm a web developer who loves the intersection of **clean code** and **bold desi
 
 ---
 
-### 📊 github stats
+### github stats 🥝
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franstellar&show_icons=true&theme=neon&hide_border=false&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franstellar&layout=compact&theme=neon&hide_border=false" />
