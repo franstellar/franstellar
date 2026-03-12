@@ -5,9 +5,8 @@
   <img src="https://img.shields.io/badge/Loves-Black_Cats-000000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 <div align="center">
-| [ !my website(https://img.shields.io/badge/VISIT_MY_STATION-🍉-FF85C1?style=for-the-badge&logoColor=white&labelColor=00A86B) ](https://franstellar.github.io/thats_me_fran/html/index.html) |
+| [ 🍉 **my website** ](https://franstellar.github.io/thats_me_fran/html/index.html) |
 | :---: |
-
 </div>
 
 <br>
