@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://franstellar.github.io/thats_me_fran/html/index.html">
-    <img src="https://img.shields.io/badge/🍉_my_website_🥝-D81B60?style=for-the-badge&logoColor=white&labelColor=00A86B" alt="me">
+    <img src="https://img.shields.io/badge/_my_website_🥝-D81B60?style=for-the-badge&logoColor=white&labelColor=00A86B" alt="me">
   </a>
 </div>
 
