@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Style-Neobrutalism-FF85C1?style=for-the-badge&logoColor=white&labelColor=00A86B" />
-  <img src="https://img.shields.io/badge/Loves-Black_Cats-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loves-Cats-000000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 <br>
