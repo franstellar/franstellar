@@ -12,9 +12,9 @@ Computer Science student @ **UNESC** | Web Dev Intern @ **CITOLabs**
 
 I'm a web developer who loves the intersection of **clean code** and **bold design**. Currently deep-diving into the Laravel ecosystem and perfecting my "scrapbook" aesthetic with millimetric precision.
 
-- 🐈 Owner of **Lord Darth Vader** (the best black cat)
-- 🪐 Lover of **Universe tematics**
-- 🎨 Obsessed with **Bubblegum Pink + Emerald Green** palettes
+- 🐈 owner of **Lord Darth Vader** (the best black cat)
+- 🪐 lover of **universe tematics**
+- 🎨 obsessed with **bubblegum pink + emerald green** palettes
 
 ---
 
