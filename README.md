@@ -4,6 +4,9 @@
   <img src="https://img.shields.io/badge/Style-Neobrutalism-FF85C1?style=for-the-badge&logoColor=white&labelColor=00A86B" />
   <img src="https://img.shields.io/badge/Loves-Black_Cats-000000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+
+<br>
+
 <div align="center">
   <a href="https://franstellar.github.io/thats_me_fran/html/index.html">
     <img src="https://img.shields.io/badge/🍉_my_website_🥝-FF85C1?style=for-the-badge&logoColor=white&labelColor=00A86B" alt="me">
