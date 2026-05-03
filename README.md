@@ -1,4 +1,4 @@
-# Hi, I'm Fran! 🍓 (aka @franstellar)
+# Hi, I'm Fran! 🍓 (aka @franboisefran)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Style-Neobrutalism-FF85C1?style=for-the-badge&logoColor=white&labelColor=00A86B" />
