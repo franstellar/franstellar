@@ -16,7 +16,7 @@
 <br>
 
 ### about me 🍓
-Computer Science student @ **UNESC** | Web Dev Intern @ **CITOLabs**
+Computer Science student @ **UNESC** | Web Dev 
 
 I'm a web developer who loves the intersection of **clean code** and **bold design**. Currently deep-diving into the Laravel ecosystem and perfecting my "scrapbook" aesthetic with millimetric precision.
 
